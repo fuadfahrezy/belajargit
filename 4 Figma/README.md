@@ -29,3 +29,7 @@ Butuh jaringan internet untuk bekerja secara maksimal. Namun bisa disimpan secar
 4. Layers and groups
 5. Images
 6. Typography
+
+## Task
+Praktikum Figma
+[Praktikum - figma FE.docx](https://github.com/fuadfahrezy/belajargit/files/9430965/Praktikum.-.figma.FE.docx)
