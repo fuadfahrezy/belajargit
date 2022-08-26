@@ -18,4 +18,4 @@ Adalah git hosting service
 ## Task
 Pada task ini, membuat repository dan SS insights => network
 
-[Screenshot Insights=Network](.SS/Screenshot Insight=Network git.png)
+[Screenshot Insights=Network](SS/Screenshot Insight=Network git.png)
