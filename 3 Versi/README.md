@@ -19,4 +19,3 @@ Adalah git hosting service
 Pada task ini, membuat repository dan SS insights => network
 
 [Screenshot Insights=Network](SS/Screenshot Insight=Network git.png)
-<img width="960" alt="Screenshot 2022-08-24 152159" src="https://user-images.githubusercontent.com/111029546/186852131-3a9ba8c5-fec1-40bc-9455-e3e244e5b3a5.png">
