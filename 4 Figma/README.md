@@ -31,5 +31,5 @@ Butuh jaringan internet untuk bekerja secara maksimal. Namun bisa disimpan secar
 6. Typography
 
 ## Task
-Praktikum Figma
+Praktikum Figma pada link https://www.figma.com/file/Tk4c9OwKIjylGkhp0qtyss/Tugas-Prototype
 [Praktikum - figma FE.docx](https://github.com/fuadfahrezy/belajargit/files/9430965/Praktikum.-.figma.FE.docx)
